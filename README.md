@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hiiii !! ✨
 
-<!--
-**humeras16/humeras16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Humera**, a first-year BSc Data Science student.
 
-Here are some ideas to get you started:
+**YES, I chose Data Science willingly.**  
+I just didn't read the full terms & conditions 💀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🌷 About Me
+
+I like experimenting with whatever I learn,  
+making things unnecessarily pretty,  
+and occasionally wondering *"wait... why does this actually work?"* 👻
+
+`learn → try → debug → fix → repeat` 🔄
+
+## 👾 Currently
+
+My goal is to build a career in **Data Science and AI**,  
+keep improving my skills, and build things I'm genuinely interested in and slowly figure out where this whole thing takes me. 🌱
+
+### 🛠️ Learning
+
+`🐍 Python` `☕ Java` `📊 Data Science` `🐙 Git & GitHub`
+
+---
+
+still no big projects.  
+just ideas, practice, and questionable amounts of curiosity. 👀
+
+**but Hey... At least the GitHub profile looks good.** `>_<` ✨
