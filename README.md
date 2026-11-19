@@ -70,6 +70,4 @@ I'm here to learn, build, break things, fix them, and hopefully make something c
 
 **but Hey... At least the GitHub profile looks good.** `>_<`
 
-<sub>Still learning. Still experimenting. More coming soon.</sub>
-
 </div>
