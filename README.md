@@ -1,6 +1,7 @@
  <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/d05fc204-5daa-4b31-81b1-e85862766f66" />
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/74df48da-0c49-427c-a87b-a5f3bb040c14" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=D6C5A5&center=true&vCenter=true&width=650&height=60&lines=HIIII+!!" />
 
