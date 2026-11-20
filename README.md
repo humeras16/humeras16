@@ -1,13 +1,15 @@
 
 <div align="center">
 
-<img width="2055" height="765" alt="image" src="https://github.com/user-attachments/assets/301b52da-12f5-4714-936b-357b2e94125c" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=650&height=60&lines=HIIII+!!" />
 
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=D6C5A5&center=true&vCenter=true&width=650&height=60&lines=HIIII+!!" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=650&height=45&lines=hello%2C+world+!+i+'m+humera" />
 
 </div>
 
+---
 ---
 
 <table>
