@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=650&height=60&lines=HIIII+!!" />
 
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=650&height=45&lines=hello%2C+world+!+i+'m+humera" />
 
