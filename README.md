@@ -1,11 +1,9 @@
- <div align="center">
+
+<div align="center">
 
 <img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/d9a45b40-f712-4a5e-aff9-15a4af789243" />
 
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=D6C5A5&center=true&vCenter=true&width=650&height=60&lines=HIIII+!!" />
-
 
 </div>
 
@@ -15,21 +13,25 @@
 <tr>
 <td width="55%" valign="top">
 
-## ABOUT ME
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=450&height=45&lines=ABOUT+ME" />
+</div>
 
-I like experimenting with whatever I learn, making things unnecessarily pretty, and occasionally wondering *"wait... why does this actually work?"*
+<p><em> I like experimenting with whatever I learn, making things unnecessarily pretty, and occasionally wondering "wait... why does this actually work?"</em></p>
 
 `learn → try → debug → fix → repeat`
 
 ---
 
-## MY GITHUB JOURNEY
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=500&height=45&lines=MY+GITHUB+JOURNEY" />
+</div>
 
-Still no big projects.
+<p><em> Still no big projects.</em></p>
 
-Just ideas, practice, experiments, and questionable amounts of curiosity.
+<p><em>Just ideas, practice, experiments, and questionable amounts of curiosity.</em></p>
 
-I'm here to learn, build, break things, fix them, and hopefully make something cool along the way.
+<p><em>I'm here to learn, build, break things, fix them, and hopefully make something cool along the way. </em></p>
 
 </td>
 
@@ -37,13 +39,15 @@ I'm here to learn, build, break things, fix them, and hopefully make something c
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=900&color=D6C5A5&center=true&vCenter=true&width=300&height=100&lines=INITIALIZING...;LOADING+SKILLS...;DEBUGGING...;BUILDING+IDEAS..." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=900&color=D6C5A5&center=true&vCenter=true&width=340&height=110&lines=INITIALIZING...;LOADING+SKILLS...;DEBUGGING...;BUILDING+IDEAS..." />
 
 </div>
 
 ---
 
-## CURRENTLY LEARNING
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=999999&color=D6C5A5&center=true&vCenter=true&width=400&height=45&lines=CURRENTLY+LEARNING" />
+</div>
 
 ![Python](https://img.shields.io/badge/Python-22272e?style=flat-square&logo=python&logoColor=D6C5A5)
 ![Java](https://img.shields.io/badge/Java-22272e?style=flat-square&logo=openjdk&logoColor=D6C5A5)
@@ -54,7 +58,7 @@ I'm here to learn, build, break things, fix them, and hopefully make something c
 
 `> compiling dreams...`
 
-<sub>status: still figuring things out</sub>
+<p><em> status: still figuring things out</em></p>
 
 </td>
 </tr>
@@ -64,12 +68,12 @@ I'm here to learn, build, break things, fix them, and hopefully make something c
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=D6C5A5&center=true&vCenter=true&width=450&height=45&lines=LET'S+CONNECT" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=D6C5A5&center=true&vCenter=true&width=500&height=50&lines=LET'S+CONNECT" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22272e?style=for-the-badge&logo=linkedin&logoColor=D6C5A5)](https://www.linkedin.com/in/humera-shaikh-h162008/)
 
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-22272e?style=for-the-badge&logo=gmail&logoColor=D6C5A5)](mailto:shaikhhumera1981@gmail.com)
 
-**but Hey... At least the GitHub profile looks good.** `>_<`
+<em>but Hey... At least the GitHub profile looks good.</em> `>_<`
 
 </div>
